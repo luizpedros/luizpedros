@@ -1,6 +1,8 @@
 <img src="https://github.com/luizpedros/luizpedros/blob/main/codando1.jpg" width="440px" height="360px" align='right' />
 # Hey, I'm Luiz Pedro 👋
 
+<a href="https://github.com/luizpedros">
+
 <!--
 **luizpedros/luizpedros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
