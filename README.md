@@ -1,3 +1,4 @@
+![BART](https://user-images.githubusercontent.com/78607909/111791703-39290080-88a2-11eb-8738-f02c4228c318.png)
 ### Hey, I'm Luiz Pedro 👋
 
 <!--
