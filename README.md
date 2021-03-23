@@ -2,6 +2,8 @@
 
 ## Hey, I'm Luiz Pedro 👋
 
+<p>Self-taught, self motivated and fascinated by innovation. I am always in search of knowledge that will enable me to expand my areas of knowledge.</p>
+
 <hr/>
 
 <a href="https://github.com/luizpedros/github-readme-stats">
