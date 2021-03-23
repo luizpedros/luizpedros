@@ -2,7 +2,8 @@
 # Hey, I'm Luiz Pedro 👋
 
 <a href="https://github.com/luizpedros">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luizpedros_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpedros_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   
   
 
 <!--
