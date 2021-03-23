@@ -6,7 +6,7 @@
 
 <h4>I'm also a:</h4>
 
-🚴 Love cycling 
+🚴⛰️ Love cycling 
 
 🧠 Learning addict
 
