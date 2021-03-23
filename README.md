@@ -12,9 +12,10 @@
 
 
 #
+<br>
 
 <a href="https://github.com/luizpedros">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizpedros&show_icons=true&theme=react"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luizpedros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luizpedros&show_&layout=compact&langs_count=8&theme=react"/>
    
