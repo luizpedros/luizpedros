@@ -4,11 +4,16 @@
 
 <hr/>
 
-<a href="https://github.com/luizpedros">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luizpedros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luizpedros&layout=compact&langs_count=8&theme=react"/><hr/>
+<a href="https://github.com/luizpedros/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luizpedros&show_icons=true&theme=react&include_all_commits=true&count_private=true" align="center" height="380" width="360" />
+   </a>
+   <a href="https://github.com/luizpedros/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luizpedros&layout=compact&langs_count=8&theme=react" align="center" height="380" width="360" />
+    </a>
+   <hr/>
    
-   
+  
+ 
   
 
 <!--
