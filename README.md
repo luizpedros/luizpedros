@@ -1,11 +1,11 @@
-<img src="https://github.com/luizpedros/luizpedros/blob/main/codando2-editada.png" width="440px" height="360px" align='right' />
-### Hey, I'm Luiz Pedro 👋
-<hr/>
+<img src="https://github.com/luizpedros/luizpedros/blob/main/codando2-editada.png" width="440px" height="360px" align='right'/>
 
+## Hey, I'm Luiz Pedro 👋
+
+<hr/>
 
 <a href="https://github.com/luizpedros">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luizpedros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luizpedros&layout=compact&langs_count=8&theme=react"/><hr/>
    
    
