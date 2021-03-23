@@ -12,6 +12,8 @@
 
 🎮 Books, games and movies fan
 
+🎥 Favorite movie: Harry Potter 
+
 ☕ Coffee lover
 
 <hr/>
