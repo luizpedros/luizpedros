@@ -1,4 +1,4 @@
-<img src="https://github.com/luizpedros/luizpedros/blob/main/codando2-editada.png" width="440px" height="360px" align='right'/>
+<img src="https://raw.githubusercontent.com/luizpedros/luizpedros/main/Programming-bro.png" width="440px" height="360px" align='right'/>
 
 ## Hey, I'm Luiz Pedro 👋
 
